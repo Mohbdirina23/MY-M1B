@@ -70,10 +70,10 @@ ul{
    
     list-style-type: none;
     padding: 50px;
-    margin-left: 130px;
+    margin-left: 150px;
     gap: 100px;
-    display: flex;   
-    font-size: 20px;
+     display: flex;  
+    font-size: 15px;
     font-family: "Times New Roman", Times, serif;
     font-style: italic;
     font-weight: 100;
@@ -135,7 +135,7 @@ ul li a:hover {
   overflow: hidden;
   border-right: 3px solid #ffffff;
   animation: typing 4s steps(30, end) forwards, blink 0.7s infinite;
-  margin-left: 100px;
+  margin-left: 120px;
   font-family: "Times New Roman", Times, serif;
   font-style: italic;
   font-weight: 700;   
@@ -165,6 +165,7 @@ ul li a:hover {
     text-align: center;
 }
 .hi{
+  
   color: aliceblue;
   font-style: italic;
   margin-left: 100px;
@@ -323,6 +324,7 @@ ul li a:hover {
     text-align: center;
 }
 .hi{
+  text-align: center;
   color: aliceblue;
   font-style: italic;
   margin-left: 100px;
@@ -338,6 +340,7 @@ ul li a:hover {
 .par2{
     font-family: "Times New Roman", Times, serif;
     font-style: italic;
+    text-align: center;
     margin-left: 100px;
     color: aliceblue;
     font-size: 20px;
@@ -373,7 +376,8 @@ ul li a:hover {
 
 }
 .parti2{
-   margin: 100px;
+   width: 700px;
+   
    background-color: rgba(2, 0, 36, 0.91);
    border-radius: 30px;
    box-shadow: 0 20px 30px rgba(203, 210, 216, 0.5);
@@ -470,4 +474,5 @@ ul li a:hover {
 
 }
 }
+
 
